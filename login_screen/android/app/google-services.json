@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255668251039",
+    "project_id": "sandboxbackend-f39ac",
+    "storage_bucket": "sandboxbackend-f39ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255668251039:android:ab3f83708b59316a97b5aa",
+        "android_client_info": {
+          "package_name": "com.example.login_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255668251039-9v0lqu9beaa9rd9u1hlceqjf5rmjmuak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquwD9kF8GUfhHTgNY-i44CmLyS3m6e9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255668251039-9v0lqu9beaa9rd9u1hlceqjf5rmjmuak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
